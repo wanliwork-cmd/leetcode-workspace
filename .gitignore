@@ -130,6 +130,7 @@ yarn.lock
 .tmp
 .temp
 *.tmp
+converted-markdown/
 
 # Jupyter Notebook
 .ipynb_checkpoints
